@@ -31,4 +31,21 @@ def load_csv(csvpath):
 
 
 
+#Saves qualifying loans to a csv
+def save_csv(csvpath, header, qualifying_loans):
+    print("Saving qualifying loans to csv file")
+    #Alerts user what is happening while file is being created.
+
+    with open (csvpath, "w") as csvfile:
+    #Creates a CSV writer
+        csvwriter = csv.writer(csvfile, delimiter=",")
+    #Establishes the delimiter as ",".
+        csvwriter.writerow(header)
+    #Adds header to the csv file.
+        #for item in save_qualifying_loans:
+        csvwriter.writerows(qualifying_loans)    
+    #Rights a new row for each value from the daily rate sheet.
+
+
+
 

@@ -9,6 +9,7 @@ Example:
 import sys
 import fire
 import questionary
+import csv
 from pathlib import Path
 
 from qualifier.utils.fileio import load_csv
@@ -23,6 +24,7 @@ from qualifier.filters.max_loan_size import filter_max_loan_size
 from qualifier.filters.credit_score import filter_credit_score
 from qualifier.filters.debt_to_income import filter_debt_to_income
 from qualifier.filters.loan_to_value import filter_loan_to_value
+from qualifier.utils.fileio import save_csv
 
 
 def load_bank_data():
@@ -101,6 +103,35 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
     print(f"Found {len(bank_data_filtered)} qualifying loans")
 
     return bank_data_filtered
+
+
+def save_qualifying_loans(qualifying_loans):
+    """Saves the qualifying loans to a CSV file.
+    Args:
+        qualifying_loans (list of lists): The qualifying bank loans.
+    """
+    
+    #Complete the usability dialog for saving the CSV Files.
+    #Create header for csv file that return lenders for qualifying loans
+    
+    header = ["Lender", "Max Loan Amount","Max LTV","Max DTI","Min Credit Score","Interest Rate"]
+    
+    #Creates path for new  csv file.
+    
+    csvpath = Path("qualifying_loans.csv")
+
+
+    # Use questionary to prompt user to save qualifying loans as a csv file
+    user_input = questionary.confirm("Would you like to save the results as a csv file?").ask()
+
+    if user_input:
+        if len(qualifying_loans)==0:
+            print("You have zero qualifying loans.")
+            exit
+        else:
+            save_csv(csvpath, header, qualifying_loans)
+    else:
+        exit 
 
 
 
