@@ -1,0 +1,1264 @@
+   50  ls
+   51  cd challenge_assignments
+   52  ls
+   53  cd module_10_challenge
+   54  ls
+   55  .code
+   56  code .
+   57  ls
+   58  mv crypto_investments.ipynb crypto_clustering.ipynb
+   59  ls
+   60  clear
+   61  git clone git@github.com:admaxwell/crypto_clustering.git
+   62  ls
+   63  cd crypto_clustering
+   64  ls
+   65  cd ..
+   66  ls
+   67  mv crypto_clustering.ipynb ./crypto_clustering
+   68  ls
+   69  ls crypto_clustering
+   70  git add crypto_clustering
+   71  cd crypto_clustering
+   72  ls
+   73  git add crypto_clustering.ipynb
+   74  git status
+   75  git commit -m "<machine learning>"
+   76  git status
+   77  git push
+   78  clear
+   79  jupyter lab
+   80  clear
+   81  conda activate de
+   82  conda activate dev
+   83  juypter lab
+   84  jupyter lab
+   85  cd Desktop/Fintech_Lessons
+   86  ls
+   87  conda activate dev
+   88  juypter lab
+   89  jupyter lab
+   90  clear
+   91  conda activate dev
+   92  conda install -c conda-forge imbalanced-learn
+   93  conda list imbalanced-learn
+   94  conda install -c conda-forge pydotplus
+   95  conda list pydotplus
+   96  clear
+   97  conda activate dev
+   98  juypter lab
+   99  jupyter lab
+  100  clear
+  101  conda activate dev
+  102  jupyter lab
+  103  jupyter lab
+  104  clear
+  105  pwd
+  106  cd ls
+  107  cd ls . 
+  108  ls
+  109  cd Desktop/Fintech_Lessons/neural_network_mod_13/nerual_network_monday
+  110  ls
+  111  cd Cr
+  112  cd 01_Creating_Deep_Learning_Models_with_Keras
+  113  ls
+  114  mv wine_quality.csv ../
+  115  ls
+  116  cd .l
+  117  cd ..
+  118  ls
+  119  conda activate dev
+  120  jupyter lab
+  121  clear
+  122  conda list requests
+  123  conda list json
+  124  pip install python-dotenv
+  125  pip install alpaca-trade-api
+  126  pip list |grep -E "python-dotenv|alpaca-trade-api
+  127  pip list |grep -E "python-dotenv|alpaca-trade-api"
+  128  clear
+  129  cd ~/Desktop/Fintech_Lessons/api_key
+  130  vi keys.env
+  131  cat keys.env
+  132  pwd
+  133  ls
+  134  ls
+  135  ls
+  136  jupyter lab --ContentsManager.allow_hidden_=True
+  137  cd ..
+  138  ls
+  139  mkdir api_finanical_sim_mod_5
+  140  clear
+  141  conda activate dev
+  142  jupyter lab
+  143  jupyter lab --ContentsManager.allow_hidden=True
+  144  clear
+  145  jupyter lab --ContentsManager.allow_hidden=True
+  146  jupyter lab --ContentsManager.allow_hidden=True
+  147  conda activate dev
+  148  ls
+  149  cd quandal_api_key
+  150  ls
+  151  jupyter lab --ContentManager.allow_hidden=True
+  152  cd ~
+  153  clear
+  154  jupyter lab --ContentsManager.allow_hidden=True
+  155  clear
+  156  pwd
+  157  cd Desktop/Fintech_Lessons
+  158  ls
+  159  cd quandal_api_key
+  160  cat .env
+  161  vi .env
+  162  rm .env
+  163  cat .env
+  164  clear
+  165  juypter lab
+  166   clear
+  167  cd ..
+  168  juypter lab
+  169  juypter lab
+  170  juypter labs
+  171  jupyter lab
+  172  clear
+  173  jupyter lab --ContentsManager.allow_hidden=True
+  174  vi .env
+  175  cat .env
+  176  ls
+  177  mv quandal_api_key quandl_api_key
+  178  ls
+  179  cd quandl_api_key
+  180  ls
+  181  vi .env
+  182  cat .env
+  183  clear
+  184  juypter lab
+  185  jupyter lab --ContentsManager.allow_hidden=True
+  186  cd ~
+  187  jupyter lab
+  188  clear
+  189  jupyter lab
+  190  jupyter lab
+  191  pwd
+  192  cd Desktop/Fintech_Lessons
+  193  ls
+  194  cd api
+  195  cd api_finanical_sim_mod_5
+  196  ls
+  197  cd monday_api_class
+  198  ls
+  199  cd 02_Wrangling_the_Range
+  200  ls
+  201  cd Unsolved
+  202  vi .env
+  203  cat .env
+  204  cd ~
+  205  pwd
+  206  jupyter lab
+  207  cd Desktop/Fintech_Lessons/api_finanical_sim_mod_5
+  208  clear
+  209  ls
+  210  cat monday_api_class/01-Three_Stock_Monte/.env
+  211  cd monday_api_class
+  212  cd 01-Three_Stock_Monte
+  213  ls
+  214  cd Unsolved
+  215  cat .env
+  216  vi .env
+  217  cat .env
+  218  jupyter lab
+  219  cd ~
+  220  clear
+  221  jupyter lab
+  222  clear
+  223  ls
+  224  cd Desktop
+  225  ls
+  226  cd psychedelic_forcast
+  227  ls
+  228  clear
+  229  ls
+  230  gitclone git@github.com:cmiskovich/Project_2.git
+  231  git clone git@github.com:cmiskovich/Project_2.git
+  232  ls
+  233  mv ./pysche_forcast.ipynb ./Project_2
+  234  ls
+  235  cd Project_2
+  236  ls
+  237  cd ..
+  238  git add ./Project_2/pysche_forcast.ipynb
+  239  clear
+  240  cd ./Project_2
+  241  LS
+  242  git add pysche_forcast.ipynb
+  243  git commit
+  244  git commit pysche_forcast.ipynb -m "upload file"
+  245  git push
+  246  pwd
+  247  ls
+  248  cd Desktop
+  249  ls
+  250  cd Fintech_Lessons
+  251  ls
+  252  cd challenge_assignments
+  253  ls
+  254  cd ~
+  255  cd Desktop
+  256  ls
+  257  cd psychedelic_forcast
+  258  ls
+  259  cd Project_2
+  260  ls
+  261  cat pysche_forcast.ipynb
+  262  ls
+  263  . code pysche_forcast.ipynb
+  264  cd ~ Desktop/Fintech_Lessons
+  265  ls
+  266  cd ..
+  267  ls
+  268  cd psychedelic_forcast
+  269  ls
+  270  cd Project_2
+  271  git pull
+  272  cd ..
+  273  ls
+  274  mv pysche_forcast_update.ipynb ./Project_2
+  275  cd ..
+  276  cd psychedelic_forcast/Project_2
+  277  ls
+  278  git add
+  279  git add pysche_forcast_update.ipynb
+  280  git commit pysche_forcast_update.ipynb -m "initial load"
+  281  git push
+  282  ls 
+  283  cat .env
+  284  cd ..
+  285  cat .env
+  286  clear
+  287  pwd
+  288  ls
+  289  cd Project_2
+  290  ls
+  291  cd ..
+  292  cat .env
+  293  ALPACA_API_KEY = "PKASF8QGLW9NPWZ01261"\n\nALPACA_SECRET_KEY = "NCGKQx5lUFu56cnssrZDbmczmqqg8Th7KHNMMWMp"clear
+  294  clear
+  295  juypter lab
+  296  jupyter lab
+  297  conda activate dev
+  298  jupyter lab
+  299  ls
+  300  cd Project_2
+  301  ls
+  302  cleaer
+  303  clear
+  304  git pull
+  305  clear
+  306  ls
+  307  git add pysche_forcasting.ipynb
+  308  git commit pysche_forcasting.ipynb -m "update file"
+  309  git push
+  310  git pull
+  311  ls
+  312  clea
+  313  clear
+  314  jupyter lab
+  315  cd ~
+  316  clear
+  317  jupyter lab
+  318  clear
+  319  pip install streamlit
+  320  clear
+  321  pwd
+  322  cd Desktop/Fintech_Lessons/Blockchain_mod_18
+  323  .code
+  324  . code
+  325  conda activate dev
+  326  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python
+  327  conda activate dev
+  328  conda activate dev
+  329  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/data_class.py
+  330  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/data_class.py
+  331  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/data_class.py
+  332  conda activate dev
+  333  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/data_class.py
+  334  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/methods.py
+  335  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/methods.py
+  336  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hash_function.py/app.py
+  337  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hash_function.py/app.py
+  338  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hash_function.py/app.py
+  339  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hash_function.py/app.py
+  340  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hash_function.py/app.py
+  341  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hash_function.py/app.py
+  342  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hash_function.py/app.py
+  343  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hash_function.py/app.py
+  344  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hash_function.py/app.py
+  345  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hash_function.py/app.py
+  346  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/new_app.py
+  347  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/03-Hashing_a_Block/Unsolved/app.py
+  348  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/03-Hashing_a_Block/Unsolved/app.py
+  349  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hashing_practice.py
+  350  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hashing_practice.py
+  351  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hashing_practice.py
+  352  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hashing_practice.py
+  353  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hashing_practice.py
+  354  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hashing_practice.py
+  355  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hashing_practice.py
+  356  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hashing_practice.py
+  357  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hashing_practice.py
+  358  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hashing_practice.py
+  359  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hashing_practice.py
+  360  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hashing_practice.py
+  361  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hashing_practice.py
+  362  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hashing_practice.py
+  363  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hashing_practice.py
+  364  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hashing_practice.py
+  365  conda activate dev
+  366  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hashing_practice.py
+  367  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hashing_practice.py
+  368  /usr/local/bin/python3 /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hashing_practice.py
+  369  /usr/local/bin/python3 /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hashing_practice.py
+  370  /usr/local/bin/python3 /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hashing_practice.py
+  371  /usr/local/bin/python3 /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hashing_practice.py
+  372  /usr/local/bin/python3 /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hashing_practice.py
+  373  /usr/local/bin/python3 /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hashing_practice.py
+  374  /usr/local/bin/python3 /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hashing_practice.py
+  375  /usr/local/bin/python3 /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hashing_practice.py
+  376  /usr/local/bin/python3 /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hashing_practice.py
+  377  /usr/local/bin/python3 /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hashing_practice.py
+  378  /usr/local/bin/python3 /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/hashing_practice.py
+  379  conda activate dev
+  380  clear
+  381  /usr/local/bin/python3 /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/nonce.py
+  382  /usr/local/bin/python3 /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/nonce.py
+  383  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/nonce.py
+  384  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/nonce.py
+  385  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/nonce.py
+  386  conda activate dev
+  387  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/nonce.py
+  388  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Blockchain_mod_18/Monday/01-Dynamic_Difficulty/Unsolved/app.py
+  389  conda activate base
+  390  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/monday/eth_tester.py
+  391  conda activate dev
+  392  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/monday/eth_tester.py
+  393  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/monday/eth_tester.py
+  394  conda activate base
+  395  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/monday/eth_tester.py
+  396  conda activate base
+  397  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/monday/eth_tester.py
+  398  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/monday/eth_tester.py
+  399  conda activate base
+  400  conda activate dev
+  401  cd Desktop/Fintech_Lessons/Blockchain_mod_18
+  402  clear
+  403  streamlit run app.py
+  404  clear
+  405  ls
+  406  cat app.py
+  407  cat app.py
+  408  streamlit run app.py
+  409  clear
+  410  ls
+  411  streamlit run app.py
+  412  clear
+  413  streamlit run app.py
+  414  cd ~
+  415  juypter lab
+  416  jupyter lab
+  417  clear
+  418  pwd
+  419  conda activate dev
+  420  cd Desktop/Fintech_Lessons/Blockchain_mod_18
+  421  code .
+  422  ls
+  423  streamlit run app.py
+  424  streamlit run app.py
+  425  code .
+  426  streamlit run app.py
+  427  streamlit run app.py
+  428  ls
+  429  cd Monday
+  430  LS
+  431  cd 01-Build_a_Blockchain_Block
+  432  ls
+  433  cd Unsolved
+  434  streamlit run app.py
+  435  streamlit run app_1_unsolved.py
+  436  clear
+  437  ls
+  438  streamlit run app_1_unsolved.py
+  439  cat app_1_unsloved.py
+  440  clear
+  441  pwd
+  442  ls
+  443  streamlit run app_1_unsolved.py
+  444  mv app_1_unsloved.py app.py
+  445  ls
+  446  ls
+  447  streamlit run app.py
+  448  clear
+  449  streamlit run app.py
+  450  streamlit run app.py
+  451  cd ..
+  452  ls
+  453  cd ..
+  454  ls
+  455  cd 02-Hashing_with_Hashlib
+  456  streamlit run app.py
+  457  ls
+  458  cd Unsolved
+  459  streamlit run app.py
+  460  cd ..
+  461  cd Solved
+  462  streamlit run app.py
+  463  cd ..
+  464  cd Unsolved
+  465  streamlit run app.py
+  466  cd ..
+  467  cd Solved
+  468  streamlit run app.py
+  469  cd ..
+  470  cd Unsolved
+  471  streamlit run app.py
+  472  streamlit run app.py
+  473  streamlit run app.py
+  474  cd ..
+  475  ls
+  476  cd Solved
+  477  streamlit run app.py
+  478  streamlit run app.py
+  479  streamlit run app.py
+  480  cd ..
+  481  cd ..
+  482  ls
+  483  cd 03-Hashing_a_Block
+  484  ls
+  485  cd Unsolved
+  486  ls
+  487  streamlit run app.py
+  488  streamlit run app.py
+  489  streamlit run new_app.py
+  490  clear
+  491  cd ..
+  492  ls
+  493  cd ..
+  494  ls
+  495  cd 04-Blockchain_Application
+  496  ls
+  497  cd Unsolved
+  498  ls
+  499  streamlit run app.py
+  500  conda f<hashlib>
+  501  conda -version hashlib
+  502  conda hashlib --version
+  503  conda hashlib -version
+  504  conda hashlib -V
+  505  jupyter lab
+  506  ls
+  507  cd ..
+  508  ls
+  509  cd ..
+  510  ls
+  511  cd 01-Dynamic_Difficulty
+  512  ls
+  513  cd Unsolved
+  514  ls
+  515  streamlit run app.py
+  516  cd ..
+  517  cd ..
+  518  ls
+  519  cd 02-Validating_the_Blockchain
+  520  ls
+  521  cd Unsolved
+  522  ls
+  523  streamlit run app.py
+  524  pip install web3
+  525  cd ~
+  526  ls
+  527  cd Desktop/Fintech_Lessons/challenge_assignments
+  528  ls
+  529  cd mod_18_project
+  530  ls
+  531  cd Starter_Code
+  532  LS
+  533  cd pychain.py
+  534  clear
+  535  ls
+  536  code .
+  537  pwd
+  538  ls
+  539  streamlit run pychain.py
+  540  streamlit run pychain.py
+  541  clear
+  542  pip install web3==5.17
+  543  pip install web3==5.17
+  544  -m pip install --upgrade pip
+  545  -m pip install --upgrade 
+  546  pip install --upgrade pip
+  547  pip install eth-tester==0.5.0b3
+  548  pip install mnemoinc
+  549  pip install mnemonic
+  550  pip install bip44
+  551  clear
+  552  ls 
+  553  cd ..
+  554  cd ~
+  555  cd Desktop/Fintech_Lessons
+  556  ls
+  557  cd blockchain_wallet_mod_19
+  558  ls
+  559  cd monday
+  560  ls
+  561  cd ..
+  562  code .
+  563  deactivate conda
+  564  conda deactivate
+  565  clear
+  566  conda activate base
+  567  conda activate base
+  568  conda activate dev
+  569  conda activate dev
+  570  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/monday/eth_tester.py
+  571  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/monday/eth_tester.py
+  572  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/monday/eth_tester.py
+  573  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/monday/eth_tester.py
+  574  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/monday/eth_tester.py
+  575  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/monday/eth_tester.py
+  576  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/monday/eth_tester.py
+  577  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/monday/eth_tester.py
+  578  conda activate dev
+  579  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/today_class/ethereum.py
+  580  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/today_class/ethereum.py
+  581  clear
+  582  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/today_class/ethereum.py
+  583  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/today_class/ethereum.py
+  584  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/today_class/ethereum.py
+  585  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/today_class/ethereum.py
+  586  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/today_class/ethereum.py
+  587  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/today_class/ethereum.py
+  588  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/today_class/ethereum.py
+  589  conda activate dev
+  590  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/today_class/ethereum.py
+  591  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/today_class/ethereum.py
+  592  conda activate dev
+  593  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/today_class/ethereum.py
+  594  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/today_class/ethereum.py
+  595  conda activate dev
+  596  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/today_class/ethereum.py
+  597  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/today_class/ethereum.py
+  598  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/today_class/ethereum.py
+  599  conda activate dev
+  600  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/today_class/ethereum.py
+  601  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/today_class/ethereum.py
+  602  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/today_class/ethereum.py
+  603  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/today_class/ethereum.py
+  604  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/today_class/ethereum.py
+  605  conda activate dev
+  606  cd Desktop/Fintech_Lessons/blockchain_wallet_mod_19
+  607  ls
+  608  code . 
+  609  pip install web3==5.17
+  610  pip install eth-tester==0.5.0b3
+  611  pwd
+  612  jupyter lab
+  613  conda activate dev
+  614  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/monday/signed_transactions/signed_transactions.py
+  615  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/monday/signed_transactions/signed_transactions.py
+  616  conda activate base
+  617  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  618  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  619  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  620  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  621  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  622  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  623  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  624  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  625  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  626  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  627  conda activate base
+  628  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  629  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  630  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  631  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  632  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  633  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  634  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  635  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  636  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  637  conda activate base
+  638  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  639  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  640  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  641  conda activate base
+  642  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  643  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  644  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  645  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  646  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  647  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  648  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  649  conda activate base
+  650  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  651  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  652  conda activate dev
+  653  pwd
+  654  cd ....
+  655  cd ..
+  656  ls
+  657  cd challenge_assignments
+  658  ls
+  659  cd mod_19_project
+  660  ls
+  661  code .
+  662  clear
+  663  ~
+  664  jupyter lab
+  665  cd ~
+  666  pwd
+  667  jupyter lab
+  668  cd Desktop/Fintech_Lessons
+  669  ls
+  670  cd Blockchain_mod_18
+  671  ls
+  672  code .
+  673  cd ..
+  674  ls
+  675  cd challenge_assignments/mod_19_project
+  676  ls
+  677  streamlit run fintech_finder.py
+  678  pip install streamlit --upgrade
+  679  clear
+  680  streamlit run fintech_finder.py
+  681  clear
+  682  ls
+  683  streamlit run fintech_finder.py
+  684  streamlit run fintech_finder.py
+  685  streamlit run fintech_finder.py
+  686  streamlit run fintech_finder.py
+  687  cd ..
+  688  ls
+  689  cd mod_3_project
+  690  ls
+  691  cd project_3
+  692  ls
+  693  jupyter lab
+  694  conda activate dev
+  695  cd Desktop/Fintech_Lessons/challenge_assignments
+  696  ls
+  697  cd mod_19_project
+  698  streamlit run fintech_finder.py
+  699  streamlit run fintech_finder.py
+  700  conda env list
+  701  conda create -n ethenv python=3.12
+  702  python --version
+  703  conda create -n ethenv python=3.9.12
+  704  conda activate ethenv
+  705  conda list
+  706  conda install jupyter lab
+  707  conda install pandas
+  708  python -m pip install -U pip
+  709  -m pip install -U matplotlib
+  710  cd ~\ncd ~
+  711  pwd
+  712  cd Desktop
+  713  conda deactivate
+  714  conda deactivate
+  715  conda env create -f environment_droplet.yml
+  716  conda activate eth_env
+  717  conda deactivate
+  718  conda info --envs
+  719  conda activate dev
+  720  conda list
+  721  clear
+  722  pip install fire
+  723  pip install questionary 
+  724  cd Fintech_Lessons/Finanical_Programming_mod_2
+  725  ls
+  726  code .
+  727  cd ~
+  728  ls
+  729  ls
+  730  cd Desktop/Fintech_Lessons
+  731  ls
+  732  cd Finanical_Programming_mod_2
+  733  ls
+  734  cd take_two
+  735  ls
+  736  cd 02_Loan_Qualifier_Filtering_Data
+  737  ls
+  738  cd Unsolved
+  739  ls
+  740  python app.py
+  741  python app.py
+  742  python app.py
+  743  python app.py
+  744  python app.py
+  745  python app.py
+  746  cd ..
+  747  ls
+  748   cd
+  749  ls
+  750  cd Desktop
+  751  ls
+  752  cd Fintech_Lessons
+  753  ls
+  754  cd Finanical_Programming_mod_2
+  755  ls
+  756  cd 02_Loan_Qualifier_Filtering_Data
+  757  ls
+  758  cd Unsolved
+  759  ls
+  760  python app.py
+  761  python app.py
+  762  clear
+  763  ls
+  764  pwd
+  765  cd ..
+  766  ls
+  767  cd Unsolved
+  768  ls
+  769  cd ..
+  770  cd ..
+  771  cd ~
+  772  cd Desktop/Fintech_Lessons/Finanical_Programming_mod_2
+  773  ls
+  774  cd monday
+  775  ls
+  776  cd 02_Loan_Qualifier_Filtering_Data
+  777  ls
+  778  cd Unsolved
+  779  ls
+  780  python app_unsolved.py
+  781  pwd
+  782  ls
+  783  python app_unsolved.py
+  784  clear
+  785  python app_unsolved.py
+  786  pwd
+  787  ls
+  788  cd qu
+  789  cd qualifier
+  790  ls
+  791  cd
+  792  ls
+  793  cd Desktop/Fintech_Lessons/Finanical_Programming_mod_2/monday
+  794  ls
+  795  cd 02_Loan_Qualifier_Filtering_Data
+  796  ls
+  797  cd Unsolved
+  798  ls
+  799  cd qualifier
+  800  ls
+  801  cd qualifier
+  802  ls
+  803  cd utils
+  804  ls
+  805  python app_unsolved.py
+  806  cd
+  807  cd ..
+  808  ls
+  809  ls
+  810  cd antiwanmaxwell/Desktop/Fintech_Lessons/Finanical_Programming_mod_2
+  811  ls
+  812  cd monday
+  813  ls
+  814  cd 02_Loan_Qualifier_Filtering_Data
+  815  ls
+  816  cd Unsolved
+  817  ls
+  818  python app_unsolved.py
+  819  clear
+  820  ls
+  821  cd qualifier
+  822  ls
+  823  cd qualifier
+  824  ls
+  825  ls
+  826  cd utils
+  827  ls
+  828  python app_unsolved.py
+  829  python app_unsolved.py
+  830  python app_unsolved.py
+  831  python app_unsolved.py
+  832  cd ~
+  833  clear
+  834  cd Desktop/Fintech_Lessons/Finanical_Programming_mod_2
+  835  ls
+  836  cd monday
+  837  ls
+  838  cd 02_Loan_Qualifier_Filtering_Data
+  839  ls
+  840  cd Unsolved
+  841  ls
+  842  python app_unsolved.py
+  843  ls
+  844  python app_copy.py
+  845  clear
+  846  ls
+  847  cd ..
+  848  ls
+  849  ls
+  850  cd ..
+  851  ls
+  852  cd ..
+  853  ls
+  854  cd monday
+  855  ls
+  856  cd unsloved
+  857  ls
+  858  ls
+  859  ls
+  860  cd Unsolved
+  861  ls
+  862  python app_unsolved.py
+  863  python app_unsolved.py
+  864  python app_unsolved.py
+  865  ls
+  866  python app.py
+  867  ls
+  868  cd data
+  869  ls
+  870  pwd
+  871  cd ..
+  872  ls
+  873  python app.py
+  874  cd ..
+  875  ls
+  876  ls
+  877  cd ..
+  878  ls
+  879  cd unsloved
+  880  ls
+  881  cd qualifier
+  882  ls
+  883  cd qualifier
+  884  ls
+  885  cd utils
+  886  ls
+  887  cd ..
+  888  ls
+  889  cd ..
+  890  ls
+  891  cd data
+  892  ls
+  893  ls
+  894  cd ..
+  895  ls
+  896  cd qualifier
+  897  ls
+  898  cd utils
+  899  ls
+  900  conda activate base
+  901  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Finanical_Programming_mod_2/practice_1.py
+  902  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Finanical_Programming_mod_2/practice_1.py
+  903  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Finanical_Programming_mod_2/practice_1.py
+  904  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Finanical_Programming_mod_2/practice_1.py
+  905  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Finanical_Programming_mod_2/practice_1.py
+  906  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Finanical_Programming_mod_2/practice_1.py
+  907  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Finanical_Programming_mod_2/practice_1.py
+  908  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Finanical_Programming_mod_2/monday/02_Loan_Qualifier_Filtering_Data/Unsolved/app_unsolved.py
+  909  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Finanical_Programming_mod_2/monday/02_Loan_Qualifier_Filtering_Data/Unsolved/app_unsolved.py
+  910  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Finanical_Programming_mod_2/monday/02_Loan_Qualifier_Filtering_Data/Unsolved/app_unsolved.py
+  911  pwd
+  912  conda activate dev
+  913  pwd
+  914  pwd
+  915  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Finanical_Programming_mod_2/monday/02_Loan_Qualifier_Filtering_Data/Unsolved/app_unsolved.py
+  916  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Finanical_Programming_mod_2/monday/modular_programming/app.py
+  917  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Finanical_Programming_mod_2/monday/modular_programming/app.py
+  918  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Finanical_Programming_mod_2/monday/modular_programming/app.py
+  919  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Finanical_Programming_mod_2/monday/modular_programming/app.py
+  920  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Finanical_Programming_mod_2/monday/modular_programming/app.py
+  921  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Finanical_Programming_mod_2/monday/modular_programming/app.py
+  922  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Finanical_Programming_mod_2/monday/modular_programming/app.py
+  923  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Finanical_Programming_mod_2/monday/01_Loan_Qualifier_Financial_Calculations/Unsolved/qualifier/app_unsolved.py
+  924  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Finanical_Programming_mod_2/monday/01_Loan_Qualifier_Financial_Calculations/Unsolved/qualifier/app_unsolved.py
+  925  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Finanical_Programming_mod_2/monday/01_Loan_Qualifier_Financial_Calculations/Unsolved/qualifier/app_unsolved.py
+  926  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Finanical_Programming_mod_2/take_two/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  927  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Finanical_Programming_mod_2/take_two/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  928  pwd
+  929  /usr/local/bin/python3 /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Finanical_Programming_mod_2/take_two/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  930  /Users/antiwanmaxwell/opt/anaconda3/envs/ethenv/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Finanical_Programming_mod_2/take_two/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  931  /Users/antiwanmaxwell/opt/anaconda3/envs/ethenv/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Finanical_Programming_mod_2/take_two/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  932  /Users/antiwanmaxwell/opt/anaconda3/envs/ethenv/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Finanical_Programming_mod_2/monday/02_Loan_Qualifier_Filtering_Data/Unsolved/app_unsolved.py
+  933  /Users/antiwanmaxwell/opt/anaconda3/envs/ethenv/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/Finanical_Programming_mod_2/monday/02_Loan_Qualifier_Filtering_Data/Unsolved/app_unsolved.py
+  934  conda activate base
+  935  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  936  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  937  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  938  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  939  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  940  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  941  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  942  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  943  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  944  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  945  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  946  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  947  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  948  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  949  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  950  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  951  conda activate dev
+  952  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  953  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  954  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  955  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  956  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  957  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  958  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/practice.py
+  959  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/test.py
+  960  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/test.py
+  961  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/test.py
+  962  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/test.py
+  963  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/challenge_assignments/mod_19_project/test.py
+  964  streamlit version
+  965  conda activate /Users/antiwanmaxwell/opt/anaconda3/envs/eth_env
+  966  streamlit run fintech_finder.py
+  967  conda activate base
+  968  conda activate dev
+  969  conda activate dev
+  970  /Users/antiwanmaxwell/opt/anaconda3/envs/dev/bin/python /Users/antiwanmaxwell/Desktop/Fintech_Lessons/blockchain_wallet_mod_19/monday/signed_transactions/signed_transactions.py
+  971  conda activate dev
+  972  ls
+  973  cd Desktop/Fintech_Lessons/Finanical_Programming_mod_2/unsloved/
+  974  ls
+  975  cd qualifier
+  976  ls
+  977  cd qualifier
+  978  ls
+  979  utils
+  980  cd utils
+  981  ls
+  982  cd ..
+  983  ls
+  984  cd ..
+  985  ls
+  986  python app.py
+  987  python app.py
+  988  python app.py
+  989  ls
+  990  cd ..
+  991  cd ..
+  992  code .
+  993  ls
+  994  cd unsolved
+  995  ls
+  996  cd qualifier
+  997  ls
+  998  python app.py
+  999  python app.py
+ 1000  python app.py
+ 1001  pwd
+ 1002  cd ...
+ 1003  cd ..
+ 1004  cd ..
+ 1005  code .
+ 1006  ls
+ 1007  cd unsolved
+ 1008  ls
+ 1009  cd qualifier
+ 1010  ls
+ 1011  python app.py
+ 1012  clear
+ 1013  ls
+ 1014  python app.py
+ 1015  pip install fire
+ 1016  conda activate dev
+ 1017  pip install fire
+ 1018  pip install questionary
+ 1019  deactivate dev
+ 1020  pip upgrade fire
+ 1021  pip install fire --upgrade
+ 1022  pip install questionary --upgrade
+ 1023  ls
+ 1024  python fire_practice.py --pants=True
+ 1025  cd ..
+ 1026  ls
+ 1027  cd ..
+ 1028  ls
+ 1029  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+ 1030  ls
+ 1031  cd Uns
+ 1032  cd Unsolved
+ 1033  ls
+ 1034  python app.py
+ 1035  cleaer
+ 1036  clear
+ 1037  ls
+ 1038  python app.py
+ 1039  python app.py
+ 1040  python app.py --credit 600
+ 1041  python app.py --credit_score=600
+ 1042  python app.py --credit_score=750 --debt=3000 --income 50000
+ 1043  python app.py --credit_score=700 --debt=3000 --income 50000
+ 1044  python app.py --credit_score=700 --debt=3000 --income 50000
+ 1045  python app.py
+ 1046  python app.py
+ 1047  python app.py
+ 1048  python app.py --credit_score=700 
+ 1049  python app.py --credit_score=700 --debt=3000 --income 50000
+ 1050  --credit_score=450
+ 1051  python app.py --credit_score=500
+ 1052  python app.py --credit_score=0
+ 1053  python app.py --credit_score=0 --debt=3000
+ 1054  python app.py --credit_score=670 --debt=3000 --income=3000
+ 1055  python app.py --credit_score=670 --debt=3000 --income=40000
+ 1056  cd ..
+ 1057  cd ..
+ 1058  ls
+ 1059  cd 02_Adding_questionary_to_Loan_Qualifier
+ 1060  ls
+ 1061  cd Unsolved
+ 1062  ls
+ 1063  python app.py
+ 1064  sl
+ 1065  ls
+ 1066  python app.py --credit_score 700 --debt 3000 -- income 8000
+ 1067  python app.py --credit_score=700 --debt=3000 --income=8000
+ 1068  python app.py --credit_score=700 --debt=3000 --income=8000
+ 1069  clear
+ 1070  python app.py --credit_score=700 --debt=3000 --income=8000
+ 1071  python app.py --credit_score=700 --debt=3000 --income=8000
+ 1072  python app.py --credit_score=700 --debt=3000 --income=8000
+ 1073  pwd
+ 1074  cd ..
+ 1075  ls
+ 1076  cd ..
+ 1077  ls
+ 1078  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+ 1079  ls
+ 1080  cd Unsolved
+ 1081  ls
+ 1082  python app.py --credit_score=700 --debt=3000 --income=8000
+ 1083  pwd
+ 1084  cd ....
+ 1085  cd ../..
+ 1086  ls
+ 1087  cd 02_Adding_questionary_to_Loan_Qualifier
+ 1088  ls
+ 1089  cd Unsolved
+ 1090  ls
+ 1091  python app.py 
+ 1092  python app.py 
+ 1093  python app.py 
+ 1094  python app.py 
+ 1095  cd ..
+ 1096  ls
+ 1097  cd Solved
+ 1098  ls
+ 1099  python app.py
+ 1100  cd ..
+ 1101  cd Unsolved
+ 1102  ls
+ 1103  python app.py
+ 1104  python app.py
+ 1105  cd ~
+ 1106  cd Desktop/Fintech_Lessons
+ 1107  cd challenge_assignments
+ 1108  ls
+ 1109  mkdir mod_2_project
+ 1110  ls
+ 1111  cd mod_2_project
+ 1112  ls
+ 1113  git clone git@github.com:admaxwell/Loan_Qualifier_Application.git
+ 1114  clear
+ 1115  ls
+ 1116  cd Loan_Qualifier_Application
+ 1117  ls
+ 1118  vi README.md
+ 1119  cat README.md
+ 1120  clear
+ 1121  git status
+ 1122  touch new_file.txt
+ 1123  git status
+ 1124  git add new_file.txt
+ 1125  git status
+ 1126  git add README.md
+ 1127  git status
+ 1128  git commit -m <added two new files>
+ 1129  git commit -m "<added two new files>"
+ 1130  ls
+ 1131  git status
+ 1132  git push
+ 1133  ls
+ 1134  code ,
+ 1135  code .
+ 1136  ls
+ 1137  git status
+ 1138  git add README.md
+ 1139  git status
+ 1140  git commit -m "<update to README.md>"
+ 1141  git status
+ 1142  git push
+ 1143  git status
+ 1144  git add README.md
+ 1145  git status
+ 1146  git commit -m "<second update to README.md>"
+ 1147  git status
+ 1148  git push
+ 1149  git add README.md
+ 1150  git commit -m "<third update to README.md>"
+ 1151  git push
+ 1152  git add README.md
+ 1153  git commit -m "<fourth update to README.md>"
+ 1154  git push
+ 1155  git add README.md
+ 1156  git commit -m "<fifth update to README.md>"
+ 1157  git push
+ 1158  ls
+ 1159  git add images
+ 1160  git commit -m "<added new folder to repository>"
+ 1161  git push
+ 1162  ls
+ 1163  cd ..
+ 1164  ls
+ 1165  cd ..
+ 1166  ls
+ 1167  cd mod_20_project
+ 1168  ls
+ 1169  cd ~]
+ 1170  cd ~
+ 1171  cd Desktop/Fintech_Lessons
+ 1172  ls
+ 1173  cd Finanical_Programming_mod_2
+ 1174  ls
+ 1175  cd unsolved
+ 1176  ls
+ 1177  cd qualifier
+ 1178  ls
+ 1179  cd ..
+ 1180  cd ..
+ 1181  ls
+ 1182  cd ..
+ 1183  ls
+ 1184  cd challenge_assignments
+ 1185  cd ls
+ 1186  ls
+ 1187  cd mod_2_project
+ 1188  ls
+ 1189  cd Loan_Qualifier_Application
+ 1190  ls
+ 1191  cd loan_qualifier_app
+ 1192  ls
+ 1193  python app.py
+ 1194  python app.py
+ 1195  python app.py
+ 1196  python app.py
+ 1197  python app.py
+ 1198  python app.py
+ 1199  python app.py
+ 1200  python app.py
+ 1201  python app.py
+ 1202  python app.py
+ 1203  python app.py
+ 1204  clear
+ 1205  python app.py
+ 1206  clear
+ 1207  python app.py
+ 1208  python app.py
+ 1209  clear
+ 1210  clear
+ 1211  python app.py
+ 1212  ls
+ 1213  cd ll
+ 1214  cd ..
+ 1215  ls
+ 1216  cd loan_qualifier_app
+ 1217  ls
+ 1218  cd ..
+ 1219  ls
+ 1220  ls
+ 1221  cd loan_qualifier_app
+ 1222  ls
+ 1223  cd Images
+ 1224  ls
+ 1225  ls
+ 1226  cd ..
+ 1227  ls
+ 1228  cat loan_qualifier.png
+ 1229  clear
+ 1230  ls
+ 1231  pwd
+ 1232  ls
+ 1233  cd ..
+ 1234  ls
+ 1235  mv loan_qualifier_app ~/Desktop
+ 1236  ls
+ 1237  pwd
+ 1238  cd ~
+ 1239  ls
+ 1240  cd Desktop
+ 1241  ls
+ 1242  cd loan_qualifier_app
+ 1243  ls
+ 1244  clear
+ 1245  pwd
+ 1246  pwd
+ 1247  cd ..
+ 1248  cd Fintech_Lessons/challenge_assignments
+ 1249  ls
+ 1250  cd mod_2_project
+ 1251  ls
+ 1252  cd Loan_Qualifier_Application/
+ 1253  ls
+ 1254  cd ..
+ 1255  ls
+ 1256  rm -rf Loan_Qualifier_Application
+ 1257  ls
+ 1258  pwd
+ 1259  mkdir Loan_Qualifier_Application
+ 1260  ls
+ 1261  cd Loan_Qualifier_Application
+ 1262  git clone git@github.com:admaxwell/Loan_Qualifier_Application-.git
+ 1263  ls
+ 1264  cd ..
+ 1265  ls
+ 1266  cd Loan_Qualifier_Application
+ 1267  ls
+ 1268  git pull
+ 1269  ls
+ 1270  rm -rf Loan_Qualifier_Application-
+ 1271  ls
+ 1272  clear
+ 1273  ls
+ 1274  git clone git@github.com:admaxwell/Loan_Qualifier_Application.git
+ 1275  ls
+ 1276  cd Loan_Qualifier_Application
+ 1277  ls
+ 1278  ls
+ 1279  pwd
+ 1280  cd ..
+ 1281  cd ..
+ 1282  ls
+ 1283  cd Loan_Qualifier_Application
+ 1284  ls
+ 1285  cd Loan_Qualifier_Application
+ 1286  ls
+ 1287  code .
+ 1288  clear
+ 1289  ls
+ 1290  git add Images
+ 1291  git add app.py
+ 1292  git add data
+ 1293  git add qualifier
+ 1294  git status
+ 1295  git commit -m <initial upload>
+ 1296  git commit -m "<initial upload>"
+ 1297  git push
+ 1298  clear
+ 1299  ls
+ 1300  git add app.py
+ 1301  git add qualifier/utils/fileio.py
+ 1302  git status
+ 1303  git commit -m "<update to app.py, update to fileio.py>"
+ 1304  git push
+ 1305  git add README.md
+ 1306  git commit -m "<README.md has been updated>"
+ 1307  git push
+ 1308  git add Images
+ 1309  git commit -m "<images added>"
+ 1310  git push
+ 1311  git add qualifying_loans.csv
+ 1312  git commit -m "<saved qualified loans>"
+ 1313  git push
